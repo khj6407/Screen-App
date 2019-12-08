@@ -1,10 +1,10 @@
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
-import TabNavigation from "./navigation/TabNavigation";
+import MainNavigation from "./navigation/MainNavigation";
 
 class App extends React.Component {
   render() {
-    return <TabNavigation style={styles.container} />;
+    return <MainNavigation />;
   }
 }
 

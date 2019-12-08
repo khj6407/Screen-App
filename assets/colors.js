@@ -4,5 +4,6 @@ export const publicColors = {
   SUC_COLOR: "#0984e3",
   BORDER_COLOR: "#1f719a",
   TEXT_COLOR: "#06233a",
-  CHECK_COLOR: "#0a1927"
+  CHECK_COLOR: "#0a1927",
+  GRAY_COLOR: "#888"
 };
